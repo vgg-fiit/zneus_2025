@@ -21,3 +21,17 @@ We have prepared a few simple tasks that you can find in the directory "week_1" 
 If you know all of that already, well ...then, congratulations ;)
 
 But still... the attendance of the seminars is mandatory.
+
+## Week 3
+All hands on board!
+
+This week, you are going to implement a simple multilayer perceptron with its feed forward function.
+In the notebook, there are already prepared base classes and structures. 
+Finish all the forward functions and run the visualization/print cells.
+Follow the instructions in the notebook.
+
+Of course - you don't have to do it before the seminar... 
+As stated during the lecture and seminars, this is your work for the upcoming week's seminars.
+Also - don't forget to refresh your memory about matrix operations and perceptron's architecture.
+
+Good luck
